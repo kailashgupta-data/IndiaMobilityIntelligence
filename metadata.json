@@ -1,0 +1,6 @@
+{
+  "name": "India Mobility Intelligence",
+  "description": "Executive desktop analytics platform for intercity passenger movement, multi-modal transport demand, holiday surges, and revenue intelligence across Indian metropolitan corridors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
